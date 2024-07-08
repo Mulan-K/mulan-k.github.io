@@ -22,13 +22,13 @@ repository               : "mulan-k/mulan-k.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Lisong SHI"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "detonation physics, scientific computing"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ls.mark.shi@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
