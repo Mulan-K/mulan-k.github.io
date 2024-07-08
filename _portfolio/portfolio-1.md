@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Oblique detonation wave"
+excerpt: "computed by LLF-CESE with domain decomposition <br/><img src='/images/ode.png'>"
 collection: portfolio
 ---
 
