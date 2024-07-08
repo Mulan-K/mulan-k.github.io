@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Lisong SHI"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "detonation physics, scientific computing"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
