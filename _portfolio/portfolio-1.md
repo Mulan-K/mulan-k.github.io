@@ -1,7 +1,7 @@
 ---
 title: "Oblique detonation wave"
 # excerpt: "computed by LLF-CESE with domain decomposition <br/><img src='/images/ode.png'>"
-excerpt: "computed by LLF-CESE with domain decomposition <br/><img src='/images/ode.png' width='300' height='auto'>"
+excerpt: "computed by LLF-CESE with domain decomposition <br/><img src='/images/ode.png' width='500' height='auto'>"
 collection: portfolio
 ---
 
