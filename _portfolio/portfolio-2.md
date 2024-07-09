@@ -1,7 +1,7 @@
 ---
 title: "Adaptive mesh refinement"
 excerpt: "computed by in-house AMR strategy, mesh distributions <br/><img src='/images/regRefPerMesh.jpg' width='300' height='auto'>"
-excerpt: "computed by in-house AMR strategy, density contour <br/><img src='/images/regRefPerRes.jpg' width='300' height='auto'>"
+excerpt2: "computed by in-house AMR strategy, density contour <br/><img src='/images/regRefPerRes.jpg' width='300' height='auto'>"
 collection: portfolio
 ---
 
