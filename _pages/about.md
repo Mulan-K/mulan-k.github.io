@@ -13,6 +13,7 @@ Detonation physics
 ======
 1. three-dimensional effects
 1. rotating detonation waves
+1. shock-bubble interaction
 1. re-initiation after diffraction
 1. vibrationally non-equilibrium
 
