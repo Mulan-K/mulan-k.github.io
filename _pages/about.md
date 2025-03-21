@@ -7,27 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to DML. My research focuses on computational detonation, with an emphasis on the following areas:
+My research focuses on computational detonation, with an emphasis on the following areas:
 
-Detonation physics
+(Detonation physics)
+1. Three-dimensional effects
+1. Rotating detonation waves
+1. Shock-bubble interaction
+1. Re-initiation after diffraction
+1. Vibrationally non-equilibrium
+
+(Scientific computing)
+1. High-performance computing
+1. Adaptive mesh refinement
+1. Numerical methods
+
+(Other)
+1. Micro flapping vehicles
+1. Particle image velocimetry
+
+Gallery
 ======
-1. three-dimensional effects
-1. rotating detonation waves
-1. shock-bubble interaction
-1. re-initiation after diffraction
-1. vibrationally non-equilibrium
 
-Scientific computing
-======
-1. high-performance computing
-1. adaptive mesh refinement
-1. numerical methods
+  Oblique detonation wave: computed by in-house code UCESE3D <br/>
+  <img src='/images/ode.png' width='500' height='auto'><br/>
+  
+  Adaptive mesh refinement: computed by in-house code QAMR-SES, mesh distributions & density contour<br/>
+  published, open access, https://doi.org/10.1016/j.cpc.2025.109565 <br/>
+  <img src='/images/regRefPerMesh.jpeg' width='500' height='auto'>  
+  <img src='/images/regRefPerRes.jpeg' width='500' height='auto'>
 
-Other
-======
-1. micro flapping vehicles
-1. particle image velocimetry
+  Detonation diffraction: computed by in-house code UCESE3D, planar supercritical case <br/>
+  published, https://doi.org/10.1017/jfm.2020.311 <br/>
+  <img src='/images/diffraction.jpg' width='500' height='auto'><br/>
 
+ Reactive shock bubble interaction: computed by in-house code FIRE developed on the framwork ECOGEN <br/>
+  published, https://doi.org/10.1016/j.combustflame.2022.112085 <br/>
+  <img src='/images/shockBubble.jpg' width='700' height='auto'><br/>
 
 <!-- **Markdown generator** -->
 

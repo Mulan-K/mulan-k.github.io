@@ -1,3 +1,7 @@
+by shi, use only single page for brevity
+@
+_pages\about.md
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
